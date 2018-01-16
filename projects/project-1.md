@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: https://avatars3.githubusercontent.com/u/7388996?s=400&v=4
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
