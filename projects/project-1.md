@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jupyternote
+image: images/jupyternote.png
 title: Data Analysis: Japan
 permalink: 
 # All dates must be YYYY-MM-DD format!
