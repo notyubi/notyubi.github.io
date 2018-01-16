@@ -61,7 +61,7 @@
         "Python",
         "R"
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -87,7 +87,7 @@
         "Operated Canon cameras to create videos and edited on Adobe PremierePro",
         "Developed sites using Wordpress"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -104,7 +104,7 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
