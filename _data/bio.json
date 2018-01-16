@@ -6,7 +6,7 @@
     "email": "yubi@hawaii.edu",
     "phone": "818-326-0574",
     "website": "https://notyubi.github.io",
-    "summary": "Studying computer science and economics at the University of Hawaii at Manoa. I strive to develop applications and technologies for a sustainable future.",
+    "summary": "Studying Computer Science and Economics at the University of Hawaii at Manoa. I strive to develop applications and technologies for a sustainable future.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Computational Economics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Environmental Issues/Sustainability",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
       "keywords": [
       ]
     }
@@ -65,28 +63,17 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science/Economics (expected Fall, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,41 +82,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DCDC",
+      "position": "Web Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Creates media content and online sites for professors to utilize",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Operated Canon cameras to create videos and edited on Adobe PremierePro",
+        "Developed sites using Wordpress"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "IAFOR",
+      "website": "-",
+      "position": "S-",
+      "startDate": "-",
+      "endDate": "-",
+      "summary": "-",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "-",
       ]
     },
     {
@@ -140,24 +114,18 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Professional Liaison/Community Coordinator, ACM Manoa, 2015-2016",
+        "IBC Senator/Interpersonal Relations, ITMA, 2014-2015",
+        "Co-Founder/Photography Director, Spoon University UH Manoa Chapter, 2016-2017"
       ]
     }
   ],
-  "awards": [
+  "awards": {
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "-",
+      "date": "-",
+      "awarder": "-",
+      "summary": "-"
     }
   ],
   "references": [
