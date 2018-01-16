@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yubi Peterson",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/IMG_1925 copy.JPG",
+    "email": "yubi@hawaii.edu",
+    "phone": "818-326-0574",
+    "website": "https://notyubi.github.io",
+    "summary": "Studying computer science and economics at the University of Hawaii at Manoa. I strive to develop applications and technologies for a sustainable future.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "notyubi",
+        "url": "http://github.com/notyubi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Yubi Peterson",
+        "url": "http://linkedin.com/in/yubi-p-1b956391"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Message for request",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "yubibimbap",
+        "url": "http://instagram.com/yubibimbap"
       }
     ]
   },
