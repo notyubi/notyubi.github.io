@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/jupyternote.png
-title: Data Analysis
-permalink: projects/data_analysis
+title: Analysis
+permalink: projects/analysis
 # All dates must be YYYY-MM-DD format!
 date: 2017-07-01
 labels:
