@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/unity.png
+image: images/unity.jpg
 title: Roller Ball
 permalink: projects/unity
 # All dates must be YYYY-MM-DD format!
