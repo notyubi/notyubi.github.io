@@ -11,5 +11,7 @@ labels:
   - Open Source
 summary: Learning to use Arduino.
 ---
+  <img class="ui image" src="https://i.warosu.org/data/g/img/0638/62/1513421120357.png">
+
 
 At the beginning of 2018, I decided to learn how to use Arduino. I went over the basics and completed the "Hello World" of Arudino. I plan on using it in future projects. 
