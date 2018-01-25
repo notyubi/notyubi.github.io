@@ -71,9 +71,6 @@
       "studyType": "B.A.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
   ],
   "work": [
@@ -104,24 +101,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
       "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
       "highlights": [
         "Professional Liason/Personal Relations, ACM Manoa, 2015-2016",
         "IBC Senator/Personal Relations, ITMA, 2014-2015",
@@ -129,9 +109,7 @@
       ]
     }
   ],
-  "awards": [
-    
-  ],
+
   "references": [
     {
       "name": "Available upon request",
