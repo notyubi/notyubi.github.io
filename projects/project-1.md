@@ -14,7 +14,7 @@ summary: Analyzed various data on Japan and creating data visualizations using J
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="">
+  <img class="ui image" src="https://i.warosu.org/data/g/img/0638/62/1513421120357.png">
   <img class="ui image" src="">
   <img class="ui image" src="">
   <img class="ui image" src="">
