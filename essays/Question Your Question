@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+title: Question Your Question
+# All dates must be YYYY-MM-DD format!
+date: 2018-01-25
+labels:
+  - Questions
+---
+Whether you were aware of it or not, you most likely have asked a question in a not so smart way. But what does asking a question in a "smart" manner even entail? Additionally, I am certain we all have seen someone ask a question that seemed everything but intelligent. So how do we define a question "smart"? Browsing through stackoverflow, I would consider this to be a well executed question: "Can (a == 1 && a == 2 && a == 3) evaluate to true in Java?". First, the question is specific. It gives an example of exactly what equation they want evaluated. Second, they specify which language this is written in. This question could have diferent answers depening on which language it is written in due to syntax. Lastly, when you click on the question the user goes into more depth saying they know it is possible in Javascript (but unsure if in Java) and they provide legitimate snippets of code where this evaluation is used in. 
+
+Contrastingly, someone asked "What is the difference between Java and Javascript?". At first this seems to be a genuine question (and it is) but the issue here is that this can be easily searched. Rather than asking someone to type you out a similarities/differences list, they can read up on both Java and Javascript to understand what each language is used for, when, how, and the overall experience with using each is like. Additionally, this question could have been asked in a "smarter" manner by asking about a specific moment. In the previous example of a smart question, the user knows that the evaluation is possible in Javascript but not in Java. Asking the differences of Java and Javascript is a loaded question because there are a whole lot of differences so specifying in what cases would they be different is a smarter approach.
+
+You are probably wondering, what does have to do with Software Engineering? Well, plenty actually. This holds true for any field but it is especially relevant in the tech community. Nobody knows everything in Computer Science. Such, asking questions is crucial. But because problems can become very specific or unclear, it is necessary to make your question clear so other peers know how to approach your problem, exactly what your issue is, and how to solve it. Plus, it is efficient if the question is clear beforehand. If your problem is searchable then it is better to try to research on how to approach your problem before asking someone else because everyone has work as well so it is inconvenient to constantly have to answer someone's question when it could just be a five second search. Although asking "dumb" questions is not a direct indicator of a person's intelligence, how that person approaches their issues is an indicator of their capability and independence.
+
+This is why it is important to know how to ask questions.
