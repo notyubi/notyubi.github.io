@@ -15,3 +15,5 @@ summary: Learning to use Arduino.
 
 
 At the beginning of 2018, I decided to learn how to use Arduino. I went over the basics and completed the "Hello World" of Arudino. I plan on using it in future projects. 
+
+I personally learn better when I am interactively working with the object rather than abstract models.
