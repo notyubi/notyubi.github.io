@@ -1,0 +1,24 @@
+---
+layout: essay
+type: essay
+title: Ask the Designer In Me
+# All dates must be YYYY-MM-DD format!
+date: 2018-02-22
+labels:
+  - Frameworks
+  - UI Semantic
+---
+
+I am a very simple person who has the attention span of a gopher. I am also an avid web user and appreciate well thought-out designs. I tend to stumble around varies websites but am quick to leave if the layout and design of the site is tacky, flashy, messy, etc. This is why I believe frameworks are highly beneficial and worth it for "the investment of time and frustration". Although I am had a sliver of exposure to both CSS/HTML and frameworks, I feel time investment and being frustrated is not solely a characteristic of UI. You will experience aggravation with working CSS/HTML as well. The main difference? UI makes your site look incredibly neater and aesthetically pleasing for (in my opinion) half the work. 
+
+To me, CSS/HTML seemed to need more meticulous attention to detail compared to UI frameworks. With UI frameworks, you can simply wrap a class as concept effeciently and clearly. This makes organization less cluttered and of a hassle. It is easier to learn a framework (since  the doumentation is available) and can reduce time significantly which is great for projects with deadlines. UI frameworks are also a great way to get someone into the beginnings of web development. It is the perfect way to play around with the importance of design in development and debugging is painless (compared to raw CSS/HTML)
+
+The main downside to using UI Semantics, for me, was the difficulty in being more creative and original. Since the menus, icons, buttons, etc are already set up for you it takes more effort to make those functions stand out and become your own. I discovered this when replicating the Patagonia site. Although the basic outline was there (e.g. menu on top, big photo in the middle) it was hard to tweak it to become its own (or Patagonia's own?). I spent a lot more time than I should've to get the nitpicky details down. And I think this is where CSS/HTML takes lead over UI frameworks. Additionally, since the frameworks are availably publicly, this creates a security issue. By having the code out there for anyone to use, it makes it easier for someone to take advantage. 
+
+There is more freedom with raw CSS/HTML, which is why utilizing both frameworks and the raw is the most beneficial outcome to creating a stunning UI. 
+
+
+
+
+
+
