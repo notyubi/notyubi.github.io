@@ -10,7 +10,7 @@ labels:
   - Team Project
   - Web Application
   - Teamwork
-summary: Learning to use Arduino.
+summary: Developing a web application within a team
 ---
 Grub 'n' Go is a web application built for ICS 314: Software Engineering. The web app was created using Javascript React, HTML, and CSS. The primary goal of Grub 'n' Go is to provide students of University of Hawaii at Manoa a convenient way to locate food locations on/near campus. There is a list of vendors that give insight on what is currently available on their menu, hours of operation, and their location. The app also has a twiter feed embedded to allow students to keep up to date with the vendors. This way, vendors can update their status if they are closing soon, have limited specials, or sold out on a particular item. 
 
