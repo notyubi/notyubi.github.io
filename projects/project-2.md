@@ -2,18 +2,15 @@
 layout: project
 type: project
 image: images/arduino.jpg
-title: Arduino
-permalink: projects/arduino
+title: Grub 'n' Go
+permalink: projects/grubngo
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-02
+date: 2018-05-07
 labels:
-  - Arduino
-  - Open Source
+  - Team Project
+  - Web Application
+  - Teamwork
 summary: Learning to use Arduino.
 ---
-  <img class="ui image" src="https://i.warosu.org/data/g/img/0638/62/1513421120357.png">
+  <img class="ui image" src="https://github.com/notyubi/notyubi.github.io/blob/master/images/grubby.png">
 
-
-At the beginning of 2018, I decided to learn how to use Arduino. I went over the basics and completed the "Hello World" of Arudino. I plan on using it in future projects. 
-
-I personally learn better when I am interactively working with the object rather than abstract models.
