@@ -27,5 +27,7 @@ Data sets used:
 - Immigration per prefecture
 - Population per prefecture
 
+I can probably pinpoint my desire to go down the data analysis path to this class. The professor who assigned this project was brilliant and had such a charismatic enthusiasm for data that I wanted to learn more during my free time. I think interactive data visualization is an ideal way to get people more interested in the information they are consuming. It allows them to observe how datasets interact with each other and actually absorb the information presented to them instead of a pie chart that they probably did not even take the time to read and already has forgotten.
+
 
 
